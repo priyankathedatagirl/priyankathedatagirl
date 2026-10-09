@@ -1,4 +1,26 @@
-### Hi there 👋
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I%27m+Priyanka+%F0%9F%91%8B;Business+Analysis+%26+Data+Analytics;Excel+%7C+SQL+%7C+Power+BI+%7C+BRD%2FFRD)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 📡 Live Updates
+
+<div align="center">
+
+[![Updates](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1500&color=2E7D32&center=true&vCenter=true&width=900&height=50&lines=%F0%9F%94%AD+Working+on%3A+Sales+Performance+Analysis+%28SQL+%2B+Excel%29;%F0%9F%94%AD+Working+on%3A+Marketing+Analytics+Dashboard+%28Power+BI%29;%F0%9F%94%AD+Working+on%3A+BA+Case+Study+%28BRD%2C+FRD%2C+User+Stories%29;%F0%9F%94%AD+Working+on%3A+Requirements+Intake+Workflow+%28n8n+%2B+Notion%29;%F0%9F%91%AF+Open+to+collaborating+on+data+and+dashboard+projects;%F0%9F%A4%9D+Seeking+feedback+on+SQL+queries+and+BA+documents;%F0%9F%8C%B1+Learning%3A+Advanced+Excel%2C+SQL%2C+Power+BI%2C+GenAI;%F0%9F%92%AC+Ask+me+about+Excel%2C+Notion+and+business+insights)](https://git.io/typing-svg)
+
+</div>
+
+---
+## 👩‍💻 About Me
+- 🔭 I'm currently working on **Sales Performance Analysis (SQL + Excel)**, a **Customer/Marketing Analytics Dashboard (Power BI)**, a **BA case study (BRD, FRD, user stories, gap analysis)** for a manufacturing e-commerce process, and a **requirements intake workflow using n8n + Notion**.
+
+- 👯 I'm looking to collaborate on **data analysis and dashboard projects**, **open datasets**, **BA documentation and process-improvement case studies**, and **workflow automation with no-code/low-code tools**.
+
+- 🤝 I'm looking for help with **feedback on my SQL queries and dashboard design**, **the
 
 - 🔭 I'm currently working on **Sales Performance Analysis (SQL + Excel)**, a **Customer/Marketing Analytics Dashboard (Power BI)**, a **BA case study (BRD, FRD, user stories, gap analysis)** for a manufacturing e-commerce process, and a **requirements intake workflow using n8n + Notion**.
 
@@ -11,7 +33,6 @@
 - 💬 Ask me about **Excel**, **Notion workspaces and dashboards**, **requirements documentation**, and **turning raw data into business insights**.
 
 - ⚡ Fun fact: I can't look at a messy spreadsheet without wanting to clean it up.
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/priyanka_pitz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aspiringdatagirl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyankataklikar/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Priyankathedatagirl) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyankataklikar95@gmail.com) 
 
