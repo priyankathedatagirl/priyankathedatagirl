@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 ## 📡 Live Updates
 
 <div align="center">
@@ -14,13 +12,7 @@
 
 </div>
 
----
 ## 👩‍💻 About Me
-- 🔭 I'm currently working on **Sales Performance Analysis (SQL + Excel)**, a **Customer/Marketing Analytics Dashboard (Power BI)**, a **BA case study (BRD, FRD, user stories, gap analysis)** for a manufacturing e-commerce process, and a **requirements intake workflow using n8n + Notion**.
-
-- 👯 I'm looking to collaborate on **data analysis and dashboard projects**, **open datasets**, **BA documentation and process-improvement case studies**, and **workflow automation with no-code/low-code tools**.
-
-- 🤝 I'm looking for help with **feedback on my SQL queries and dashboard design**, **the
 
 - 🔭 I'm currently working on **Sales Performance Analysis (SQL + Excel)**, a **Customer/Marketing Analytics Dashboard (Power BI)**, a **BA case study (BRD, FRD, user stories, gap analysis)** for a manufacturing e-commerce process, and a **requirements intake workflow using n8n + Notion**.
 
