@@ -1,3 +1,16 @@
+### Hi there 👋
+
+- 🔭 I'm currently working on **Sales Performance Analysis (SQL + Excel)**, a **Customer/Marketing Analytics Dashboard (Power BI)**, a **BA case study (BRD, FRD, user stories, gap analysis)** for a manufacturing e-commerce process, and a **requirements intake workflow using n8n + Notion**.
+
+- 👯 I'm looking to collaborate on **data analysis and dashboard projects**, **open datasets**, **BA documentation and process-improvement case studies**, and **workflow automation with no-code/low-code tools**.
+
+- 🤝 I'm looking for help with **feedback on my SQL queries and dashboard design**, **the clarity of my BA documents**, **real-world business datasets**, and **analyst best practices in IT services**.
+
+- 🌱 I'm currently learning **Advanced Excel**, **SQL for business analysis**, **Power BI**, **BA documentation**, and **Generative AI and workflow automation** (n8n, Notion AI).
+
+- 💬 Ask me about **Excel**, **Notion workspaces and dashboards**, **requirements documentation**, and **turning raw data into business insights**.
+
+- ⚡ Fun fact: I can't look at a messy spreadsheet without wanting to clean it up.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/priyanka_pitz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aspiringdatagirl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyankataklikar/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Priyankathedatagirl) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyankataklikar95@gmail.com) 
